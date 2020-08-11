@@ -1,0 +1,9 @@
+body {
+    background-color: darkturquoise;
+}
+
+#num {
+    font-family: 'Lemonada', cursive;
+    font-size: 50px;
+    margin-bottom: 15px;
+}
